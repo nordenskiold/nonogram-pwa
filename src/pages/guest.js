@@ -4,7 +4,7 @@ export default [
   {
     path: "/home",
     exact: true,
-    component: () => import("../components/home"),
+    component: () => import("../components/base"),
     seo: {
       title: "Home | ReactPWA Demo",
       description:
