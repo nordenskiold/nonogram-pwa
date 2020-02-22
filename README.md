@@ -1,2 +1,2 @@
 # nonogram-pwa
-A PWA version of nonogram
+A PWA version of nonogram.
