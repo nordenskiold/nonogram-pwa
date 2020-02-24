@@ -1,0 +1,18 @@
+.popup {
+  position: absolute; /*allows span to be on top of image*/
+  border: 1px solid orange;
+  background-color: white;
+  display: none;
+}
+
+table {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  border: 1px solid #000;
+  width: 50px;
+  height: 50px;
+}
